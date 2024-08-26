@@ -1,3 +1,4 @@
+import { useReducer } from "react";
 import Stopwatch from "./Stopwatch.jsx";
 
 function App() {
