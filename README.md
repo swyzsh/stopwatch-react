@@ -1,1 +1,0 @@
-# Simple web based stopwatch [React + Vite]
